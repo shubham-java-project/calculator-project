@@ -1,6 +1,6 @@
 package com.app.model;
 /**
- * This class is used to display thr record
+ * This class is used to display the record
  * @author admin
  *
  */
