@@ -1,7 +1,13 @@
 package com.app.model;
+/**
+ * This class is used to display thr record
+ * @author admin
+ *
+ */
 
 public class Display {
 	public static void main(String[] args) {
+		
 		System.out.println("welcome to github world..!");
 		System.out.println("welcome to world......!!!");
 		System.out.println("hello world");
